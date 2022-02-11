@@ -1,0 +1,16 @@
+.country-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  min-width: 460px;
+}
+
+.country-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  border: 2px solid blue;
+  padding: 10px;
+  margin-bottom: 3px;
+}

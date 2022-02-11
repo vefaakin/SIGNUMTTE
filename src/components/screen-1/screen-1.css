@@ -1,0 +1,14 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  padding: 30px 50px;
+}
+
+.data-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 10px;
+  align-items: flex-start;
+  align-content: flex-start;
+}
